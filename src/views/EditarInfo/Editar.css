@@ -1,0 +1,31 @@
+.body{
+    background: rgb(0,44,118);
+    background: linear-gradient(0deg, rgba(0,44,118,1) 0%, rgba(150,168,199,0.16264005602240894) 30%, rgba(255,255,255,0.26067927170868344) 90%); 
+    padding: 60px; 
+    padding-bottom: 12%;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+    padding-left:20% ; 
+    margin: 50px;
+    align-self: center;
+}
+.itemG{
+   display: grid;
+   grid-template-columns: 200px 200px 200px;
+   row-gap: 15px;
+   column-gap: 40px;
+   padding: 10px
+}
+.formControl {
+    margin: 10px;
+  }
+
+.b{
+    margin: 2px;
+    margin-left: 20px;
+  }

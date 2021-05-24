@@ -1,0 +1,26 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: left;
+    column-gap: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+    
+}
+.content{
+    padding: 2px 16px;
+    font-size: medium;
+    font-weight:normal;
+    
+}
+.image{
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 200px;
+    border-radius: 10px 10px 0px 0px;
+
+}

@@ -1,0 +1,19 @@
+.body{
+  background: rgb(0,44,118);
+  background: linear-gradient(0deg, rgba(0,44,118,1) 0%, rgba(150,168,199,1) 41%, rgba(255,255,255,1) 100%);
+  padding: 50px;
+}
+.card {
+    padding: 50px;
+    
+    padding-bottom: 25%  
+  }
+
+  .btn {
+    padding-top: 10px;
+    text-decoration: none;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+    margin: 2px;
+  }

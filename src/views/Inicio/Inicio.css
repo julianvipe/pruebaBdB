@@ -1,0 +1,26 @@
+.body{
+  background: rgb(0,44,118);
+  background: linear-gradient(0deg, rgba(0,44,118,1) 0%, rgba(150,168,199,0.16264005602240894) 30%, rgba(255,255,255,0.26067927170868344) 90%);
+  padding-bottom: 15%;
+}
+.inicioContainer {
+    padding: 50px;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .bg {
+    margin-bottom: 10px;
+    display:block;
+    margin:auto;
+  }
+  .box {
+    display: flex;
+    flex-flow: column wrap;
+    padding: 3% 5%;
+    min-width:200px;
+  }
+  .buton{
+    margin-top: 20px;
+  }
